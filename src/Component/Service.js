@@ -1,9 +1,7 @@
 import React from 'react';
 
 const Service = () => {
-  const divStyle = {
-    marginTop: '100px',
-  };
+  
 
   // Define the WhatsApp link with a default message
   const whatsappLink = 'https://wa.me/7042788829?text=I%20would%20like%20to%20book%20an%20appointment';
