@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/doctorApp/static/css/main.6d963711.css",
+    "main.js": "/doctorApp/static/js/main.01d0c57c.js",
+    "index.html": "/doctorApp/index.html",
+    "main.6d963711.css.map": "/doctorApp/static/css/main.6d963711.css.map",
+    "main.01d0c57c.js.map": "/doctorApp/static/js/main.01d0c57c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d963711.css",
+    "static/js/main.01d0c57c.js"
+  ]
+}
